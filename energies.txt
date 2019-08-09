@@ -1,0 +1,10 @@
+Molecule = butanol 	  Energy = -232.16558
+Molecule = decanol 	  Energy = -466.38362
+Molecule = ethanol 	  Energy = -154.09130
+Molecule = heptanol 	  Energy = -349.27398
+Molecule = hexanol 	  Energy = -310.23853
+Molecule = methanol 	  Energy = -115.04801
+Molecule = nonanol 	  Energy = -427.34652
+Molecule = octanol 	  Energy = -388.31109
+Molecule = pentanol 	  Energy = -271.20138
+Molecule = propanol 	  Energy = -193.12836

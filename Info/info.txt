@@ -1,0 +1,70 @@
+
+live coding with Jupyter
+
+students follow
+
+student give a feedback via sticky notes: green - good to go, red - need help
+      at the end, use the notes to put positive and negative responses at the end of the day,
+      adjust it to the next day
+
+
+need to have 2 students at least: if more than 40 people - need 3
+
+the presenter should present, not help students. The second one would address the sticky notes
+
+
+
+Scheme of teaching:
+
+I do it
+We do it
+You do it together
+You do it alone
+
+
+
+Prectices:
+- address by names (use the folded envelopes, ask students to put their names ther)
+- contex is the key: students need to know why they learn it, and how they can use it
+     bring it up as soon as possible
+- first teach the concept, before the syntax
+
+  !!! context and concept - before the syntax !!!
+
+- what is the take-home message 
+  Rhetoric device:
+  e.g. consistent wording
+       "truly I say to you <important message>"
+
+choral response question - it is bad, but if you need to use it, do that:
+- give the time to think
+- give the answer before call on someone... (we know the answer is "for loop", why don't you explain us why, Julia?)
+- think, pair, share
+- sticky note response (put on your green sticky)
+
+
+Binder Image: to solve computer problems
+github/janash/cms-workshop
+
+
+When teach: need to code and to know what's coming, so..
+
+
+Don't overwrite things that already exist, better make new cells  - students get confused
+
+
+Always narrate when you code live
+
+When giving an exercise, write the instructions
+
+
+
+The REAL reason to refactor the code via functions:
+
+ it makes the code much easier to test!
+
+
+
+
+
+
