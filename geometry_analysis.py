@@ -1,6 +1,10 @@
 """
 geometry_analysis.py
 This module contains the geometry analysis project 
+
+Author: Alexey Akimov
+Date: 8/9/2019
+
 """
 
 import numpy
